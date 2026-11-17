@@ -1,4 +1,4 @@
-# Real-Time CUDA Color Inversion Application
+# Real-Time CUDA Color image/video filter app
 
 A real-time image processing application that captures live video frames, processes them using CUDA on the GPU, and displays the output using OpenGL.
 
