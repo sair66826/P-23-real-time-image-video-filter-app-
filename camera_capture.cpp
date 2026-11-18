@@ -38,7 +38,6 @@ int main()
         cout << "Type       : " << frame.type() << endl;
         cout << "Elem Size  : " << frame.elemSize() << " bytes" << endl;
         cout << "Step       : " << frame.step << " bytes" << endl;
-        cout << "Data Ptr   : " << static_cast<void*>(frame.data) << endl;
 
         cout << "\nFrame captured successfully\n";
     }
